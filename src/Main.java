@@ -32,9 +32,8 @@ public class Main {
         } else {
             System.out.println("Banana is not in the list");
         }
-    list.add("JackFruit");
         list.add("JackFruit");
-        list.add("JackFruit");
+        list.add("Pineapple");
     System.out.println("Size of ArrayList: "+ list.size());
 
      // clearing the ArrayList
